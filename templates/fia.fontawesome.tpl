@@ -1,0 +1,1 @@
+<i class="fa fa-<?=$icon?><?=$options?>" aria-hidden="true"></i><?=$text?>
